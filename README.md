@@ -112,11 +112,6 @@ Android Studio Hedgehog (2023.1.1) or newer
 JDK 17 (bundled with Android Studio)
 Internet connection for Gradle sync and Glide image loading
 
-Clone the Repository
-bashgit clone https://github.com/shrethan/kashta-kala-self-employment-.git
-cd kashta-kala-self-employment-
-Open in Android Studio
-
 Launch Android Studio
 Click File → Open
 Select the cloned kashta-kala-self-employment- folder (the one containing settings.gradle)
@@ -190,6 +185,3 @@ Push to the branch: git push origin feature/your-feature-name
 Open a Pull Request
 
 
-👨‍💻 Author
-Shrethan
-GitHub: @shrethan
